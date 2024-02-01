@@ -1,0 +1,7 @@
+Wheat Bread;Wheat Flour, Water, Yeast;500, 300, 10;g, ml, g
+French Pastry;Wheat Flour, Butter, Water;400, 200, 200;g, g, ml
+Rye Bread;Rye Flour, Water, Yeast;600, 350, 15;g, ml, g
+Croissant;Wheat Flour, Butter, Yeast;800, 150, 20;g, g, g
+Wheat Bun;Wheat Flour, Water, Salt;300, 200, 5;g, ml, g
+Doughnut;Wheat Flour, Eggs, Sugar;400, 4, 50;g, pcs, g
+Marble Cake;Wheat Flour, Butter, Eggs;500, 250, 4;g, g, pcs

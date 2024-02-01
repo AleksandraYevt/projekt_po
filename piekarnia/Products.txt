@@ -1,0 +1,7 @@
+Chleb pszenny;3.5
+Ciasto francuskie;8.99
+Chleb razowy;5.49
+Rogalik;1.99
+Bułka pszenna;0.79
+Pączek;1.49
+Babka piaskowa;7.99

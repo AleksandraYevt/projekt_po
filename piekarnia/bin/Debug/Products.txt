@@ -1,0 +1,7 @@
+Wheat Bread:3.5
+French Pastry:8.99
+Rye Bread:5.49
+Croissant:1.99
+Wheat Bun:0.79
+Doughnut:1.49
+Marble Cake:7.99

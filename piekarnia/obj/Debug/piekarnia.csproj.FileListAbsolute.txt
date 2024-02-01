@@ -1,0 +1,14 @@
+C:\Users\zomba\Desktop\piekarnia\piekarnia\bin\Debug\piekarnia.exe.config
+C:\Users\zomba\Desktop\piekarnia\piekarnia\bin\Debug\piekarnia.exe
+C:\Users\zomba\Desktop\piekarnia\piekarnia\bin\Debug\piekarnia.pdb
+C:\Users\zomba\Desktop\piekarnia\piekarnia\obj\Debug\piekarnia.csproj.AssemblyReference.cache
+C:\Users\zomba\Desktop\piekarnia\piekarnia\obj\Debug\piekarnia.csproj.CoreCompileInputs.cache
+C:\Users\zomba\Desktop\piekarnia\piekarnia\obj\Debug\piekarnia.exe
+C:\Users\zomba\Desktop\piekarnia\piekarnia\obj\Debug\piekarnia.pdb
+C:\Users\San Sanych UwU\Downloads\Telegram Desktop\piekarnia\piekarnia\piekarnia\obj\Debug\piekarnia.csproj.AssemblyReference.cache
+C:\Users\San Sanych UwU\Downloads\Telegram Desktop\piekarnia\piekarnia\piekarnia\obj\Debug\piekarnia.csproj.CoreCompileInputs.cache
+C:\Users\San Sanych UwU\Downloads\Telegram Desktop\piekarnia\piekarnia\piekarnia\obj\Debug\piekarnia.exe
+C:\Users\San Sanych UwU\Downloads\Telegram Desktop\piekarnia\piekarnia\piekarnia\obj\Debug\piekarnia.pdb
+C:\Users\San Sanych UwU\Downloads\Telegram Desktop\piekarnia\piekarnia\piekarnia\bin\Debug\piekarnia.exe.config
+C:\Users\San Sanych UwU\Downloads\Telegram Desktop\piekarnia\piekarnia\piekarnia\bin\Debug\piekarnia.exe
+C:\Users\San Sanych UwU\Downloads\Telegram Desktop\piekarnia\piekarnia\piekarnia\bin\Debug\piekarnia.pdb
